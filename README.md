@@ -1,3 +1,6 @@
+### Codeship
+[![Codeship Status for dzamroz2/heroku_test](https://www.codeship.io/projects/72cff2c0-ad9b-0133-b9d2-167728a5fef7/status?branch=master)](https://www.codeship.io/projects/132072)
+
 # ruby-getting-started
 
 A barebones Rails app, which can easily be deployed to Heroku.
